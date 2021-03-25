@@ -1,0 +1,20 @@
+.label {
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-top: 2rem;
+    display: block;
+}
+
+.select {
+    width: 100%;
+    display: block;
+    padding: 1rem;
+    /* Importante para poder quitarle el estilo por defecto */
+    -webkit-appearance: none;
+    border-radius: 10px;
+    border: none;
+    font-size: 1rem;
+}

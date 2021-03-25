@@ -1,0 +1,2 @@
+******************* DEPENDENCIAS *******************
+1. npm i @emotion/core @emotion/styled axios
